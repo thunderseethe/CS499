@@ -17,8 +17,8 @@ title: Team On The Wall
 description: > # this means to ignore newlines until "baseurl:"
   This is a site to track our progress on our Senior Design Project.
   A blog for each team member to track their progress
-baseurl: "/CS499" # the subpath of your site, e.g. /blog
-url: "https://thunderseethe.github.io" # the base hostname & protocol for your site
+#baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://thunderseethe.github.io/CS499" # the base hostname & protocol for your site
 
 
 # Build settings
