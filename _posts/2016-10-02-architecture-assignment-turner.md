@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Architecture Assignment: MagicMirror Module Structure"
+title: "Architecture Assignment Notes (Mathaniel Turner)"
 date: 2016-10-02
 post_author: Matthew Turner
 categories: turner

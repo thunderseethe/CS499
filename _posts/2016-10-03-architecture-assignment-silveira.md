@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Architecture Assignment: MagicMirror Module Structure"
+title:  "Architecture Assignment Notes (Arthur Silveira)"
 date:   2016-10-02 08:33:20 -0400
 post_author: Arthur Silveira
 categories: silveira
