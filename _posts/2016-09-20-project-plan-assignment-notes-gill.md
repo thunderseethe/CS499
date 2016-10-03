@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Project Plan Assignment Notes (Ethan Gill)"
-date:   2016-09-30 11:20:55 -0400
+date:   2016-09-20 11:20:55 -0400
 categories: gill
 ---
 
 This post refers to the Project Plan Assignment, due on September 20th.
-During the course of these assignments, communication between the team was conducted primarily over Telegram, an instant messaging application. This allowed our team to work on the assignments at different times and maintain clear communication of responsibilities.
+During the course of this assignment, communication between the team was conducted primarily over Telegram, an instant messaging application. This allowed our team to work on the assignments at different times and maintain clear communication of responsibilities.
 
 We decided to split up the Project Plan document as follows:
 
