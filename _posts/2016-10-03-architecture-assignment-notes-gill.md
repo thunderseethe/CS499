@@ -20,6 +20,6 @@ However, I also wrote 57 words for the Keynote presentation associated with the 
 So, my total word count for this assignment is 1450 words.
 
 - Ethan Gill: 1450 words
-- Arthur Silveira:
+- Arthur Silveira: 400 words
 - Ethan Smith: 950 words
 - Matthew Turner: 400 words
