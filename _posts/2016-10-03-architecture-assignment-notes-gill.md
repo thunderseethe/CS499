@@ -21,5 +21,5 @@ So, my total word count for this assignment is 1450 words.
 
 - Ethan Gill: 1450 words
 - Arthur Silveira: 400 words
-- Ethan Smith: 950 words
+- Ethan Smith: 1400 words (including website)
 - Matthew Turner: 400 words
