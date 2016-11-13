@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pre-Scrum 1 Progress (Ethan Gill)"
+title:  "Pre-Sprint 1 Progress (Ethan Gill)"
 date:   2016-09-30 3:05:16 -0400
 categories: gill
 ---
